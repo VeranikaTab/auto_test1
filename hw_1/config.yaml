@@ -1,0 +1,10 @@
+url: https://test-stand.gb.ru/gateway/login
+address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+
+login: "nata987654"
+pswd: "a60e469162"
+
+title: "Котики рулят"
+description: "сегодня и всегда"
+content: "Завести кота совсем просто!"
