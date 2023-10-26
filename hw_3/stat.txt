@@ -1,0 +1,21 @@
+2023-10-27 00:23:25 INFO ====== WebDriver manager ======
+2023-10-27 00:23:26 INFO Get LATEST chromedriver version for google-chrome
+2023-10-27 00:23:27 INFO Get LATEST chromedriver version for google-chrome
+2023-10-27 00:23:27 INFO Get LATEST chromedriver version for google-chrome
+2023-10-27 00:23:27 INFO WebDriver version 118.0.5993.70 selected
+2023-10-27 00:23:27 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win32/chromedriver-win32.zip
+2023-10-27 00:23:27 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/118.0.5993.70/win32/chromedriver-win32.zip
+2023-10-27 00:23:28 INFO Driver downloading response is 200
+2023-10-27 00:23:29 INFO Get LATEST chromedriver version for google-chrome
+2023-10-27 00:23:29 INFO Driver has been saved in cache [C:\Users\Anika\.wdm\drivers\chromedriver\win64\118.0.5993.70]
+2023-10-27 00:23:31 INFO Test3 Starting
+2023-10-27 00:23:33 INFO Send dasha87 to element // *[ @ id = "login"] / div[1] / label / input
+2023-10-27 00:23:33 INFO Send 384282eeb8 to element // *[ @ id = "login"] / div[2] / label / input
+2023-10-27 00:23:33 INFO Click login button
+2023-10-27 00:23:33 INFO Click contact button
+2023-10-27 00:23:35 INFO Send Наташа Котова to element //*[@id="contact"]/div[1]/label/input
+2023-10-27 00:23:36 INFO Send na777@mail.ru to element //*[@id="contact"]/div[2]/label/input
+2023-10-27 00:23:36 INFO Send Как ваше настроение? to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-10-27 00:23:36 INFO Click Contact us button
+2023-10-27 00:23:37 INFO Get alert message
+2023-10-27 00:23:37 INFO Alert message is Form successfully submitted
