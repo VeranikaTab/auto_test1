@@ -1,0 +1,15 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 5
+
+# login: "GB2023059a00e13"
+# pswd: "b0d51e31b5"
+
+login: "nata987654"
+passwd: "a60e469162"
+
+name: "Наташа Котова"
+email: "na777@mail.ru"
+content: "Как ваше настроение?"
+
+
