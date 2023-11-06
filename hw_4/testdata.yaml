@@ -1,0 +1,45 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+
+login: "nata987654"
+pswd: "a60e469162"
+
+u_name: "Наташа Котова"
+u_email: "veranika.ver@inbox.ru"
+content_contact: "Как ваше настроение?"
+
+title: "ПРО КОТА"
+description: "Текст песни"
+content: "За пятью холмами под лиловым небом
+Стоит дом.
+У окна, на кресле, под зеленым пледом
+Спит он.
+Убежали люди, бросив вещи,
+Такая вещь - война.
+Своя шкура дороже, понятное дело,
+Забыли кота.
+Было время вспомнить
+И взять его с собой,
+'Но до зверей ли тут?' -
+  Скажет вам, наверно, любой.
+  
+  Там, где в гриве лошадь
+  Золотистый вечер несла,
+  Ходит кот унылый
+  Во сне. У всех просит молока.
+  Встретят его скоро
+  У ворот небесных теплом,
+  За пятью холмами, под лиловым небом
+  Стоит дом."
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: Black cat
+
+fromaddr: "veranika.ver@inbox.ru"
+toaddr: "verani*****@****.ru"
+fromaddr_passwd: "пароль и почта стерты, т.к. реальные"
+file: "log.txt"
+letter_body: "Отчет о тестировании"
